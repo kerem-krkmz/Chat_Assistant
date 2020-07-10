@@ -1,0 +1,4 @@
+global APP_NAME
+global COMPANY_NAME
+APP_NAME = "HAMSTER"
+COMPANY_NAME = "Hamster.org"
